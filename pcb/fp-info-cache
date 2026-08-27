@@ -1,4 +1,4 @@
-163149740577925
+164919459747566
 kbd
 1pin_conn
 Resitance 3 pas
@@ -137,7 +137,7 @@ D3_TH_SMD
 Resitance 3 pas
 R
 0
-6
+4
 2
 kbd
 D3_TH_SMD_v2
@@ -664,3 +664,10 @@ MX,cherry,gateron,kailh,pg1511,stabilizer,stab
 0
 0
 0
+wonkyshit
+SW_Kailh_Choc_Mini_1.00u_reversible
+Kailh Choc Mini CPG1232 low profile keyswitch Keycap 1.00u
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 1.00u
+0
+6
+2
